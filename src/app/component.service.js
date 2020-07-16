@@ -15,3 +15,4 @@ class ComponentService {
     this.addValuesButton.addEventListener('click', cb);
   }
 }
+export default ComponentService;

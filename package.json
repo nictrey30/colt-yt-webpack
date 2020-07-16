@@ -1,0 +1,25 @@
+{
+  "name": "colt-yt-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nictrey30/colt-yt-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nictrey30/colt-yt-webpack/issues"
+  },
+  "homepage": "https://github.com/nictrey30/colt-yt-webpack#readme",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
