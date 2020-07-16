@@ -12,7 +12,7 @@ const run = (alertService, componentService) => {
       componentService.setResult(numA + numB);
     } else {
       componentService.setResult('');
-      alertService.hanndleAdditionError(inputs, parsedInputs);
+      alertService.handleAdditionError(inputs, parsedInputs);
     }
   });
 };
