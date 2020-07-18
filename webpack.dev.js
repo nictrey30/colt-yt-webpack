@@ -9,7 +9,6 @@ module.exports = merge(common, {
     path: path.resolve(__dirname, 'dist')
   },
   devServer: {
-    publicPath: '/assets/',
     port: 2000
   }
 });
